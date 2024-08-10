@@ -1,6 +1,5 @@
 # AstroPaper 📄
 
-![AstroPaper](public/astropaper-og.jpg)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/community/file/1356898632249991861)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![GitHub](https://img.shields.io/github/license/satnaing/astro-paper?color=%232F3741&style=for-the-badge)
@@ -88,16 +87,16 @@ Documentation can be read in two formats\_ _markdown_ & _blog post_.
 
 ## 💻 Tech Stack
 
-**Main Framework** - [Astro](https://astro.build/)  
-**Type Checking** - [TypeScript](https://www.typescriptlang.org/)  
-**Component Framework** - [ReactJS](https://reactjs.org/)  
-**Styling** - [TailwindCSS](https://tailwindcss.com/)  
-**UI/UX** - [Figma Design File](https://www.figma.com/community/file/1356898632249991861)  
-**Fuzzy Search** - [FuseJS](https://fusejs.io/)  
-**Icons** - [Boxicons](https://boxicons.com/) | [Tablers](https://tabler-icons.io/)  
-**Code Formatting** - [Prettier](https://prettier.io/)  
-**Deployment** - [Cloudflare Pages](https://pages.cloudflare.com/)  
-**Illustration in About Page** - [https://freesvgillustration.com](https://freesvgillustration.com/)  
+**Main Framework** - [Astro](https://astro.build/)
+**Type Checking** - [TypeScript](https://www.typescriptlang.org/)
+**Component Framework** - [ReactJS](https://reactjs.org/)
+**Styling** - [TailwindCSS](https://tailwindcss.com/)
+**UI/UX** - [Figma Design File](https://www.figma.com/community/file/1356898632249991861)
+**Fuzzy Search** - [FuseJS](https://fusejs.io/)
+**Icons** - [Boxicons](https://boxicons.com/) | [Tablers](https://tabler-icons.io/)
+**Code Formatting** - [Prettier](https://prettier.io/)
+**Deployment** - [Cloudflare Pages](https://pages.cloudflare.com/)
+**Illustration in About Page** - [https://freesvgillustration.com](https://freesvgillustration.com/)
 **Linting** - [ESLint](https://eslint.org)
 
 ## 👨🏻‍💻 Running Locally
